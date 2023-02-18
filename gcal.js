@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Clarkson GCal Switcher
 // @namespace    https://calendar.google.com/
-// @version      1.0
+// @version      1.0.1
 // @description  Reloads until "Clarkson University" in page title
 // @author       NelsonDane
 // @match        https://calendar.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @updateURL    https://raw.githubusercontent.com/NelsonDane/GCalSwitcher/master/gcal.js
+// @downloadURL  https://raw.githubusercontent.com/NelsonDane/GCalSwitcher/master/gcal.js
 // @grant        GM.getValue
 // @grant        GM.setValue
 // @run-at       document-idle
