@@ -7,6 +7,6 @@ For example, I use the Clarkson University calendar on my Clarkson account so I 
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
-2. Open the raw script file [here](https://raw.githubusercontent.com/NelsonDane/GCalSwitcher/main/gcal.js).
+2. Open the raw script file [here](https://raw.githubusercontent.com/NelsonDane/GCalSwitcher/main/gcal.user.js).
 3. Open the Tampermonkey dashboard and click the "Create a new script..." button.
 4. Paste the contents of the raw script file into the new script.
